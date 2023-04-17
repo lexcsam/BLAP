@@ -9,4 +9,6 @@ In this repository , we have multiple files -
 
 (3) - **UniversalBank.csv** ------------------> *The Bank CSV data from Kaggle on which we have trained our neural network model.*
  
-(4) - **scaler_fit_data.pkl** ----------------> *Used on the training data so that we can scale the training data and also learn the scaling parameters of that data*
+(4) - **scaler_fit_data.pkl** ----------------> *Used on the training data so that we can scale the training data and also learn the scaling parameters of that data.*
+
+(5) - **my_model(2).h5** ----------------> *In this file we stored Keras Sequential model with Weights which is been trained on our data mentioned above.*
