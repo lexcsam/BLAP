@@ -8,3 +8,5 @@ In this repository , we have multiple files -
 (2) - **DeployerCode.ipynb** ------------------> *The jupyter notebook file where we are deploying the trained neural network and doing prediction on unseen data.*
 
 (3) - **UniversalBank.csv** ------------------> *The Bank CSV data from Kaggle on which we have trained our neural network model.*
+ 
+(4) - **scaler_fit_data.pkl** ----------------> *Used on the training data so that we can scale the training data and also learn the scaling parameters of that data*
